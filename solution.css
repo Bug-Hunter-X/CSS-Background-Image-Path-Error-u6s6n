@@ -1,0 +1,6 @@
+/*solution.css*/
+#myElement {
+  background-image: url('./images/image.png'); /* Correct relative path */
+  /* or */
+  background-image: url('/images/image.png'); /* Correct absolute path */
+}
