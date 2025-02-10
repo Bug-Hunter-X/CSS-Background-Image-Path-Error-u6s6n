@@ -1,0 +1,1 @@
+The CSS rule `background-image: url(image.png);` does not work because the path to `image.png` is incorrect. This often occurs when the path is relative and the CSS file is not in the same directory as the image. Another possible cause is a typo in the file name or the path.
